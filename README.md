@@ -5,7 +5,7 @@
 
 </div>
 <table width="50px">
-<tr><th>Projetos desenolvidos em:</th> <th>Contate-me</th></tr>
+<tr><th>Projetos desenvolvidos em:</th> <th>Contate-me</th></tr>
 <tr>
 <td>
 <img width="30px" src="https://user-images.githubusercontent.com/93503496/179109018-cc9a7ed6-31e8-4b48-a6b6-424ae0d71cff.png"></img>
